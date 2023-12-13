@@ -26,10 +26,12 @@
     "@nestjs/core": "^9.0.0",
     "@nestjs/platform-express": "^9.0.0",
     "mui": "^0.0.1",
+    "mysql2": "^3.6.3",
     "react-modal": "^3.16.1",
     "reflect-metadata": "^0.1.13",
     "rxjs": "^7.2.0",
-    "save-dev": "^0.0.1-security"
+    "save-dev": "^0.0.1-security",
+    "typeorm": "^0.3.17"
   },
   "devDependencies": {
     "@mui/material": "^5.13.5",
